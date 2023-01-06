@@ -1,0 +1,3 @@
+Panduan Instalasi :
+1. Install dulu .NET runtime di folder nya
+2. Jalankan AppDM
